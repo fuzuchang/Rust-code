@@ -6,9 +6,19 @@ authors = ["fuzuchang <fuzuchang@hotmail.com>"]
 [dependencies]
 time = "0.1.35"
 
-[[bin]]
-name="p_str"
-path="src/bin/practice-string.rs"
+
 [[bin]]
 name="rust-code"
 path="src/main.rs"
+
+[[bin]]
+name="p_str"
+path="src/bin/practice-string.rs"
+
+[[bin]]
+name="p_io"
+path="src/bin/practice-io.rs"
+
+[[bin]]
+name="p_fs"
+path="src/bin/practice-fs.rs"
