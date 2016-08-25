@@ -1,0 +1,6 @@
+[package]
+name = "Rust-code"
+version = "0.1.0"
+authors = ["fuzuchang <fuzuchang@hotmail.com>"]
+
+[dependencies]
