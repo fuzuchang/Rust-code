@@ -1,4 +1,16 @@
+mod aaa {
+    const X: i32 = 10;
 
-fn hello () {
-    println!("{}", "hello lib");
+    pub  fn print_aaa() {
+        println!("{}", 42);
+    }
+
+
+    mod BBB {
+       pub  fn print_bbb() {
+           println!("{}", 37);
+       }
+   }
+
+
 }

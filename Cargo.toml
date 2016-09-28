@@ -22,3 +22,11 @@ path="src/bin/practice-io.rs"
 [[bin]]
 name="p_fs"
 path="src/bin/practice-fs.rs"
+
+[[bin]]
+name="p_net"
+path="src/bin/practice-net.rs"
+
+[[bin]]
+name="p_mem"
+path="src/bin/practice-mem.rs"
